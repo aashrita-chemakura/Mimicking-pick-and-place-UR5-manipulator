@@ -18,6 +18,11 @@ This repository contains the implementation for the final project of ENPM662. Th
 
 Before setting up the project, ensure you have ROS installed on your system (preferably ROS Melodic or Noetic, depending on your OS compatibility). Additionally, you need a catkin workspace set up.
 
+## Solidworks Design 
+<p align="center">
+<img width="80%" alt="car" src="ur5.png">
+</p>
+
 ## Installation
 
 1. Clone this repository into your catkin workspace's src folder:
