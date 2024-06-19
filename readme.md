@@ -2,10 +2,10 @@
 
 This repository contains the implementation for the final project of ENPM662. The project demonstrates a pick-and-place operation using a UR5 robot arm in a simulated environment. This project utilizes ROS (Robot Operating System) for managing the robot's movements and interactions.
 
-|Team Members
-|--
-|Aashrita Chemakura
-|Saketh Narayan Banagiri
+| Name                    | GitHub Profile                             |
+|-------------------------|--------------------------------------------|
+| Saketh Narayan Banagiri | [Sakethbngr](https://github.com/Sakethbngr)|
+| Aashrita Chemakura      | [aashrita-chemakura](https://github.com/aashrita-chemakura) |
 
 ## Contents
 
